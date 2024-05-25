@@ -1,4 +1,4 @@
-# L2jBlueHeart
+# L2jBlueHeart - Chronicle High Five
 This is a project based on `L2jSunrise - 10/2017`.
 
 # Run in Intellij IDEA
